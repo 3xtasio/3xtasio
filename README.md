@@ -2,7 +2,7 @@
 # Hi, i'm 3xtasio
 
 <div align="center">
-<img hight="150" width="400" alt="GIF" align="center" src="https://github.com/3xtasio/3xtasio/blob/main/assets/tumblr_9802273023f4ac271f0d2c0e49c287ce_667fc3b5_400.gif">
+<img hight="150" width="350" alt="GIF" align="center" src="https://github.com/3xtasio/3xtasio/blob/main/assets/tumblr_9802273023f4ac271f0d2c0e49c287ce_667fc3b5_400.gif">
 </div>
 
 </br>
@@ -10,7 +10,6 @@
 ## About me :
 
 #### > 19 y.o French Computer Science Student
-
 
 </br>
 
