@@ -1,6 +1,6 @@
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/3xtasio/3xtasio/blob/main/assets/tumblr_9802273023f4ac271f0d2c0e49c287ce_667fc3b5_400.gif">
+<img hight="150" width="800" alt="GIF" align="center" src="https://github.com/3xtasio/3xtasio/blob/main/assets/tumblr_9802273023f4ac271f0d2c0e49c287ce_667fc3b5_400.gif">
 </div>
 
 </br>
