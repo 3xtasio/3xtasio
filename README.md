@@ -1,16 +1,55 @@
-### Hi there 👋
 
-<!--
-**3xtasio/3xtasio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/3xtasio/3xtasio/blob/main/assets/tumblr_9802273023f4ac271f0d2c0e49c287ce_667fc3b5_400.gif">
+</div>
 
-Here are some ideas to get you started:
+</br>
+</br>
+</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# About me :
+
+### - 19 y.o French Computer Science Student
+
+
+</br>
+
+# Languages & Tools 💻 🛠:
+</br>
+
+<p align="center">
+
+</p>
+</br>
+</br>
+</br>
+
+
+
+# Contact Me :
+
+<p>
+ </br>
+Discord : 3xtasio#2300
+
+</p>
+ 
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+
+
+<p align="center" >  
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=3xtasio&&show_icons=true&theme=radical"/>
+  </a>
+  </p>
+
+*************
