@@ -7,7 +7,7 @@
 
 # About me :
 
-### - 19 y.o French Computer Science Student
+#### > 19 y.o French Computer Science Student
 
 
 </br>
