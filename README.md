@@ -1,18 +1,20 @@
 
+# Hi, i'm 3xtasio
+
 <div align="center">
 <img hight="150" width="400" alt="GIF" align="center" src="https://github.com/3xtasio/3xtasio/blob/main/assets/tumblr_9802273023f4ac271f0d2c0e49c287ce_667fc3b5_400.gif">
 </div>
 
 </br>
 
-# About me :
+## About me :
 
 #### > 19 y.o French Computer Science Student
 
 
 </br>
 
-# Languages & Tools 💻 🛠:
+## Languages & Tools 💻 🛠:
 </br>
 
 <p align="center">
@@ -22,7 +24,7 @@
 
 
 
-# Contact Me :
+## Contact Me :
 
 <p>
 Discord : 3xtasio#2300
