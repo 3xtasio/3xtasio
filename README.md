@@ -4,9 +4,6 @@
 </div>
 
 </br>
-</br>
-</br>
-
 
 # About me :
 
@@ -22,26 +19,15 @@
 
 </p>
 </br>
-</br>
-</br>
 
 
 
 # Contact Me :
 
 <p>
- </br>
 Discord : 3xtasio#2300
 
 </p>
- 
-
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
 </br>
 
 
