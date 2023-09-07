@@ -9,7 +9,7 @@
 
 ## About me :
 
-#### > 19 y.o French Computer Science Student
+#### > 21 y.o French Computer Science Student
 
 </br>
 
@@ -29,14 +29,6 @@
 </p>
 </br>
 
-
-
-## Contact Me :
-
-<p>
-Discord : 3xtasio#2300
-
-</p>
 </br>
 
 
