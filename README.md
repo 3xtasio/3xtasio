@@ -9,7 +9,7 @@
 
 ## About me :
 
-#### > 21 y.o French Computer Science Student
+#### > 23 y.o French Software Engineer
 
 </br>
 
